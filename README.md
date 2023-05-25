@@ -38,7 +38,7 @@ Makale inceleme raporu LaTeX dilinde ve slayt formatında hazırlanmalıdır. Ra
 
 # Git & GitHub
 
-Ders sunumu `slides.pdf` dosyasindan erisebilirsiniz.[(sldes.pdf)](./slıdes.pdf)
+Ders sunumu `slides.pdf` dosyasindan erisebilirsiniz.[(slides.pdf)](./slides.pdf)
 
 ## Git Kurulumu
 
