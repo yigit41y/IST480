@@ -35,3 +35,23 @@ Makale inceleme raporu LaTeX dilinde ve slayt formatında hazırlanmalıdır. Ra
 ├─ Grup2
 └─ Grup3
 ```
+
+# Git & GitHub
+
+Ders sunumu `slides.pdf` dosyasindan erisebilirsiniz.[(sldes.pdf)](./slıdes.pdf)
+
+## Git Kurulumu
+
+Git kurulumu icin bu linki takip edebilirsiniz. [Git Kurulum Rehberi](https://phoenixnap.com/kb/how-to-install-git-windows)
+
+## Github Desktop
+
+Git kurulumu yaptiktan sonra Github Desktop yukleyebilirsiniz. [Github Desktop Kurulum](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop?platform=windows)
+
+> Github Desktop kurulumu icin bu videoyu da izleyebilirsiniz. [Video](https://www.youtube.com/watch?v=xuq73UJrbwg)
+
+### Faydali Dokumanlar
+
+- [Contribution Sureci Dokumantasyonu](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#forking-a-repository)
+- [Contribution Tutorial](https://www.educative.io/answers/how-to-fork-a-repository-in-github?utm_campaign=brand_educative&utm_source=google&utm_medium=ppc&utm_content=performance_max&eid=5082902844932096&utm_term=&utm_campaign=%5BNew%5D+Performance+Max&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=18511913007&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwyLGjBhDKARIsAFRNgW9E83p9OnOO1KUWWT3NUdyJouL1Rcws0r376hZ7670AQqTT4ZQ0h_EaAjo_EALw_wcB)
+- [Pull Request Dokumentasyonu](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
