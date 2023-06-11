@@ -10,5 +10,6 @@
   4-Görüşler
   5-Kaynakça
 
+
   pdf ve kodlar ile latex te inceleme yapılmıştır.
 
