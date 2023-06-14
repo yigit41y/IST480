@@ -1,3 +1,5 @@
+
+
 # IST480 - Araştırma Yöntemleri
   Makale incelemesi migren hastalarına yönelik istatistiksel modelleme 
 
@@ -8,4 +10,6 @@
   4-Görüşler
   5-Kaynakça
 
+
   pdf ve kodlar ile latex te inceleme yapılmıştır.
+
