@@ -1,0 +1,26 @@
+RAPOR
+Ahmet Talha Kurt – 21936191- Mert Hasan Kılıç - 21936134
+________________________________________
+İncelediğim makalenin adı "Yoğun Faktör Artırılmış Modeller Altında Sırt Regresyonu" .
+inceleme aşamasını:
+1.	Makalenin yayınlandığı dergi hakkında inceleme
+2.	Makale incelemesi
+3.	Sonuç ve Tartışma
+4.	Görüş ve Öneriler
+5.	Referanslar
+Sıralaması ile yaptım. Sunuma ../grup-17/MakaleRapor.pdf'den erişim.
+________________________________________
+Kodların Tanımlanması
+📦 IST480 (Kök Dizin)  
+│  
+├─ grup-22  
+│  ├─ latex.zip )  
+│  │  │  ├─ background.jpeg (logo dosyamız)  
+│  │  ├─ sampple.bib (bib dosyamız)
+│  │  └─ main.tex (Tüm latex kodlarının derlendiği script)  
+│  │
+│  ├─ Orjinal-Makale.pdf  (İncelenen Makale)
+│  ├─ MakaleRapor.pdf  (Sunum Dosyası)
+│  └─ Readme.md  
+│
+
